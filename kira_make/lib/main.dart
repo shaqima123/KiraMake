@@ -12,6 +12,8 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       home: Text("welcome to KiraMake"),
+      ///xxxxxxx
+      ///
     );
   }
 }
